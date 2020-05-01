@@ -1,0 +1,11 @@
+C:\Users\Dylan\Desktop\Functions-Methods\obj\HPD\Debug\netcoreapp3.1\Functions-Methods.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\Functions-Methods\obj\HPD\Debug\netcoreapp3.1\Functions-Methods.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\Functions-Methods\obj\HPD\Debug\netcoreapp3.1\Functions-Methods.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\Functions-Methods\bin\HPD\Debug\netcoreapp3.1\Functions-Methods.exe
+C:\Users\Dylan\Desktop\Functions-Methods\bin\HPD\Debug\netcoreapp3.1\Functions-Methods.deps.json
+C:\Users\Dylan\Desktop\Functions-Methods\bin\HPD\Debug\netcoreapp3.1\Functions-Methods.runtimeconfig.json
+C:\Users\Dylan\Desktop\Functions-Methods\bin\HPD\Debug\netcoreapp3.1\Functions-Methods.runtimeconfig.dev.json
+C:\Users\Dylan\Desktop\Functions-Methods\bin\HPD\Debug\netcoreapp3.1\Functions-Methods.dll
+C:\Users\Dylan\Desktop\Functions-Methods\bin\HPD\Debug\netcoreapp3.1\Functions-Methods.pdb
+C:\Users\Dylan\Desktop\Functions-Methods\obj\HPD\Debug\netcoreapp3.1\Functions-Methods.dll
+C:\Users\Dylan\Desktop\Functions-Methods\obj\HPD\Debug\netcoreapp3.1\Functions-Methods.pdb
